@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table,
+tr,
+td {
+    background-color:rgb(250, 248, 141);
+    border: 1px solid black;
+    font-size: 20px;
+}
