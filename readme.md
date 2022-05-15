@@ -1,0 +1,1 @@
+Uma api local em python com frontend fazendo requisição get
